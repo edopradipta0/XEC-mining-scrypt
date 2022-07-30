@@ -1,0 +1,1 @@
+# XEC-mining-scrypt
